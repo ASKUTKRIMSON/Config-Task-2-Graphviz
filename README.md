@@ -85,8 +85,9 @@ dot -Tpng -o output.png generated.dot
 
 ![image_2024-11-17_16-24-13](https://github.com/user-attachments/assets/625021fb-a507-4b74-b1f6-685f80b13b7d)
 
-![firefox_dependencies](https://github.com/user-attachments/assets/2fa28533-860d-4d9b-9cd3-7aea09ac87aa)
+## Results
 
+![firefox_dependencies](https://github.com/user-attachments/assets/2fa28533-860d-4d9b-9cd3-7aea09ac87aa)
 
 ## License
 
