@@ -10,6 +10,7 @@ This project is designed for visualizing dependency graphs using Graphviz. It re
 - [Usage](#usage)
 - [Example](#example)
 - [Testing](#testing)
+- [Results](#results)
 - [License](#license)
 
 ---
